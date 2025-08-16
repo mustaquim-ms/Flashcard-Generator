@@ -1,0 +1,9 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn[standard]
+python-dotenv
+pytesseract
+Pillow
+google-generativeai
+python-multipart
